@@ -1,2 +1,2 @@
 # python-data-analysis
-Bank Customer Segmentation
+Bank Customer Data Prep
